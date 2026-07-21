@@ -48,24 +48,21 @@
 
 ---
 
-### 📌 Featured Projects
+### 💻 Featured Projects
 
-- #### Airbnb Smart Pricing — Mexico City 🏡 
-    End-to-end Machine Learning application for Airbnb price prediction featuring XGBoost, geospatial feature engineering, FastAPI, Streamlit, and cloud deployment.   
+#### 🏡 Airbnb Smart Pricing — Mexico City  
+End-to-end Machine Learning application for Airbnb price prediction featuring XGBoost, geospatial feature engineering, FastAPI, Streamlit, and cloud deployment.  
 
-    [View on GitHub](https://github.com/josue-rdgzcb/airbnb-price-prediction-mexico-city)  
-    [View Web App](https://airbnb-smart-pricing-cdmx.streamlit.app) 
+[🔗 View on GitHub](https://github.com/josue-rdgzcb/airbnb-price-prediction-mexico-city) | [🌐 View Web App](https://airbnb-smart-pricing-cdmx.streamlit.app)
 
+#### 🤖 DataInsight AI  
+AI-powered exploratory data analysis assistant that combines automated EDA, interactive visualizations, and LLM-generated insights to accelerate data exploration.  
 
-- #### DataInsight AI 🤖
-    AI-powered exploratory data analysis assistant that combines automated EDA, interactive visualizations, and LLM-generated insights to accelerate data exploration.  
-
-    [View on GitHub](https://github.com/josue-rdgzcb/datainsight-ai)
-    [View Web App](https://datainsight-ai-assistant.streamlit.app) 
+[🔗 View on GitHub](https://github.com/josue-rdgzcb/datainsight-ai) | [🌐 View Web App](https://datainsight-ai-assistant.streamlit.app)
 
 ---
 
 ### 📬 Contact & Connect
 
-- 🖥️ [LinkedIn](https://www.linkedin.com/in/josue-rdgzcb/)
+- 👥 [LinkedIn](https://www.linkedin.com/in/josue-rdgzcb/)
 - 📧 [Email](mailto:josue.rdgzcb@email.com)
