@@ -1,12 +1,12 @@
 # Hi there, I'm Josue 👋
 
-**Data Ops Analyst @ NielsenIQ | AI Engineering Student 🚀 | Aspiring Data Scientist & Machine Learning Engineer 🤖**
+**Data Scientist Jr @ Telefonica | AI Engineering Student 🚀 | Aspiring Data Scientist & Machine Learning Engineer 🤖**
 
 ---
 
 ### 🧑🏻‍💻 About me
 
-* 💼 Data Ops Analyst at NielsenIQ
+* 💼 Data Scientist Jr at Telefonica
 * 🎓 Industrial Engineer & Artificial Intelligence Engineering Student.
 * 🚀 Currently expanding my expertise in Machine Learning, Data Science, MLOps, and AI Engineering while developing hands-on projects.
 * 💡 Passionate about transforming data into actionable insights and solving real-world challenges through advanced analytics.
